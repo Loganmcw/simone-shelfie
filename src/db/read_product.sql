@@ -1,1 +1,0 @@
-select * from shelfie where $1

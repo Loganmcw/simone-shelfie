@@ -1,0 +1,1 @@
+update shelfie set Name = $2, Price = $3 where ID = $1

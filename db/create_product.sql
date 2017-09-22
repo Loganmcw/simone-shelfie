@@ -1,0 +1,1 @@
+insert into shelfie(name, price) values($1, $2)
